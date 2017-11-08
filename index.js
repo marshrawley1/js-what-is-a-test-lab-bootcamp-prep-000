@@ -1,6 +1,6 @@
 // write your code below!
 function say(greeting, firstName) {
-  console.log(`${greeting}, ${firstName}!`)
+  return `${greeting}, ${firstName}!`
 }
 say("Goodbye", "Julio")
 
